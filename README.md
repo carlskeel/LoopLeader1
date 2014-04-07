@@ -1,6 +1,8 @@
-CS297test1
+CS297 Capstone
 ==========
 
-test for capstone class
+Loop Leader
+Read Me
 
-LALALALALA
+Client: Skip McDonald
+
